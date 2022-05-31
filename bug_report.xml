@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bug_report>
+<ID_696>
+     <Title>Parameters of the "Send e-mail" button, do not send data to e-mail when the data is entered correctly</Title>
+       <Severity> Major</Severity>
+      <Priority> Medium </Priority> 
+      <Environment> Xiaomi mi 9 Lite,  Android 10 </Environment>	     
+      <Precondition> Installed app on the device </Precondition>
+      <STR>:  
+         1. Open the APP
+         2.Fill in the field with the data to send 
+         3. Tap “Send Email” button
+      </STR>
+         
+     <AR>: App return different links not related to sending email</AR>
+     <ER>: App return  links related to sending emai</ER>
+</ID_696>
+</Bug_report>
